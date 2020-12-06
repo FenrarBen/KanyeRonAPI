@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iz7MFmnzyte3PBg9XQbMo0ZNm/YJD2qx7EWDUJiYpEtwuwY6I+nZK4Sunp2O0vnbYCF+hxqhEmAEnHc044nTMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fenrar Muad'dib\\Desktop\\repos\\KanyeWest\\KanyeWest\\KanyeWest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fenrar Muad'dib\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
